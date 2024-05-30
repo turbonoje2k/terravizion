@@ -25,7 +25,7 @@
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/yourusername/TerraVision.git
+    git clone https://github.com/turbonoje2k/TerraVision.git
     cd TerraVision
     ```
 
@@ -49,3 +49,12 @@
 
 3. **Review Timelapses**:
     - Access and download timelapse videos to review changes over time.
+
+## Contributing
+
+Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
+
+## License
+
+This project is licensed under the MIT License.
+
